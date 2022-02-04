@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @claudiutraistaru
-- 👀 I’m interested in devops,networking,python and rust programming.
+- 👀 I’m interested in devops, networking, python and rust programming.
 - 🌱 I’m currently learning kubernetes and rust.
 - 💞️ I’m looking to collaborate on anything rust and kubernetes related:).
-- 📫 How to reach me ... tbd
+- 📫 You can reach me at traistaru.com :)
 
 <!---
 claudiutraistaru/claudiutraistaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

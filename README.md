@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops, networking, python and rust programming.
 - 🌱 I’m currently learning kubernetes and rust.
 - 💞️ I’m looking to collaborate on anything rust and kubernetes related:).
-- 📫 You can reach me at traistaru.com :)
+- 📫 You can find my email on traistaru.com :)
 
 <!---
 claudiutraistaru/claudiutraistaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

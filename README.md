@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claudiutraistaru
-- 👀 I’m an AI entusiast, A PhD. student and also interested in devops, networking, python and rust programming.
+- 👀 I’m an AI enthusiast, A PhD. student and also interested in devops, networking, python and rust programming.
 - 🌱 I’m currently learning anything LLM`s related and rust.
 - 💞️ I’m looking to collaborate on anything rust and LLM related:).
 - 📫 You can find my email on traistaru.com :)
